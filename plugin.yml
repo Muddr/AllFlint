@@ -1,0 +1,5 @@
+name: AllFlint
+version: 0.0.1
+description: 100% drop rate for flint.
+authors: [Muddr]
+main: com.gtdclan.allflint.Main

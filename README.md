@@ -1,4 +1,4 @@
 AllFlint
 ========
 
-AllFlint - A Bukkit Plugin
+A lightweight bukkit plugin that grants 100% drop rate for flint from gravel.
